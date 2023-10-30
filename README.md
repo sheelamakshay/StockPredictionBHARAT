@@ -1,0 +1,2 @@
+# StockPredictionBHARAT
+stock prediction code
